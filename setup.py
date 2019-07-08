@@ -36,7 +36,7 @@ setup(
         "Topic :: Scientific/Engineering",
         "Topic :: Scientific/Engineering :: Mathematics",
     ],
-    entry_points={
-        "console_scripts": ["dmsh-image = dmsh.cli:image", "dmsh-poly = dmsh.cli:poly"]
-    },
+    #entry_points={
+    #    "console_scripts": ["dmsh-image = dmsh.cli:image", "dmsh-poly = dmsh.cli:poly"]
+    #},
 )
